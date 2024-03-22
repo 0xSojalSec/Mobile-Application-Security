@@ -315,6 +315,4 @@ Step to repackaging apk.
 2. Automate Install Burp CA on Android -> https://github.com/laconicwolf/Android-App-Testing/blob/master/install_burp_cert.py
 3. Automate Repackage Apk -> https://github.com/laconicwolf/Android-App-Testing/blob/master/repackage_apk_for_burp.py
 
-## Contribution
-if you have know about more command or a new trick to do something with Mobile Pentest, please let me know :) </br>
-email : doctorgombal@gmail.com 
+
