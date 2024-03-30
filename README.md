@@ -4,7 +4,10 @@
   <img src="https://th.bing.com/th?id=OIP.xWR1nJNsf9n31VJFkk4A5wHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="150px"> <img src="https://th.bing.com/th/id/OIP.X1UEJtsTvV8kqfrdosWfdAHaHY?w=173&h=180&c=7&r=0&o=5&pid=1.7" width="145px"> 
   
 ### Blogs, writing up, 
-  
+* [Android Pentesting Lab Setup – Android Studio](https://pentestguy.com/android-pentesting-lab-setup-android-studio/)
+* [iOS SSL Pinning Bypass using Frida](https://pentestguy.com/ios-ssl-pinning-bypass-using-frida/)
+* [SSL Pinning Bypass Using Frida and Objection](https://pentestguy.com/ssl-pinning-bypass-using-frida-and-objection/)
+* [How to Jailbreak iOS 15 & Setup for Pentesting](https://pentestguy.com/how-to-jailbreak-ios-15-setup-for-pentesting/)
 * [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
 * [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
 * [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
